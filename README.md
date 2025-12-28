@@ -1,2 +1,1 @@
-# samsha.asia
-Support and Privacy documents for CKM Mobile App
+## Support and Privacy documents for LifeAlign App
